@@ -8,3 +8,4 @@ Simple project to practise Grid by recreating the famous Mondrian painting :art:
 Proyecto Final de la sección 10 del curso Web Development de Angela Yu en Udemy. 
 Proyecto simple para practicar Grid recreando el famoso cuadro de Mondrian :art:
 
+![Screenshot of the result in web](https://github.com/lzmdev7/MondrianProject/blob/main/MondrianPaintingGrid.png)
